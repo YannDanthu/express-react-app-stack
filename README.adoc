@@ -11,3 +11,10 @@ $ cd express-react-app-stack
 
 $ npm install
 ----
+
+2. then the react part with create-react-app
+----
+$ npm install -g create-react-app
+
+$ create-react-app client
+----
