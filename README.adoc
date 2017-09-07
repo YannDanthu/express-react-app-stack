@@ -1,0 +1,13 @@
+
+1. lets start with expressjs server part
+
+I'm using the `express-generator` to give it a try.
+----
+$ npm install -g express-generator
+
+$ express-generator express-react-app-stack
+
+$ cd express-react-app-stack
+
+$ npm install
+----
